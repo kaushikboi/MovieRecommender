@@ -1,0 +1,2 @@
+A recommender system is a type of information filtering system which attempts to predict the preferences of a user for some product and make suggestions based on these preferences. 
+There are a wide variety of applications for recommendation systems. These have become increasingly popular over the last few years and are now utilized in most online platforms that we use. The content of such platforms varies from movies, music, books and videos, to friends and stories on social media platforms, to products on e-commerce websites,to search results returned on Google. 
